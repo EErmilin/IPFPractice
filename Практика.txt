@@ -1,0 +1,4 @@
+BW=roicolor(S, low, high)
+I=rgb2gray(RGB)
+C:\practis IPF
+appdesigner
